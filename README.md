@@ -69,7 +69,20 @@ python cli.py
 
 python gui.py
 
-**🔐 Security Notes
+
+## 📸 Screenshots
+
+### 🔐 GUI Login
+![GUI Login](screenshots/gui_login.png)
+
+### 🪟 GUI Dashboard
+![GUI Dashboard](screenshots/gui_dashboard.png)
+
+### 💻 CLI Version
+![CLI Version](screenshots/cli_view.png)
+
+
+**🔐 Security Notes**
 
 * Passwords are never stored in plain text
 * Encryption key is derived from the master password
